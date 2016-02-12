@@ -7,3 +7,5 @@ Searching for our friends results one by one is a very cumbersome process so i c
   => Takes screenshots of results.
   => Creates a pdf using these images.
   => Performs cleanup.
+
+**THE SCRIPT IS DEPENDENT ON PYTHON SPLINTER, MAKE SURE YOU HAVE IT BEFORE RUNNING**
